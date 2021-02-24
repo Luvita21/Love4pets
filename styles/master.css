@@ -1,0 +1,45 @@
+header{
+    height: 400px;
+    background-color: #d863d2;
+    }
+
+nav{
+    background:transparent;
+    font-family:sans-serif;
+}
+
+nav a{
+    color:rgb(5, 5, 75)
+}
+
+.header-container{
+    display:flex;
+    justify-content: space-between;
+}
+
+a{
+    color:rgb(194, 53, 18);
+    font-size:large;
+}
+
+.inicio{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  font-family:sans-serif;
+}
+
+.amamos{
+    height: 130px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.intro {
+text-align: justify;
+font-family: sans-serif;
+font-size: larger;
+}
+
